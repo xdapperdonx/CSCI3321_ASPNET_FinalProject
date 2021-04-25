@@ -1,7 +1,7 @@
 # CSCI3321_ASPNET_FinalProject
 
 # Assumptions:
-### 1. The relationships from the Books table to the Authors table, the Publishers table, and the Genres table are all one-to-one.
+### The relationships from the Books table to the Authors table, the Publishers table, and the Genres table are all one-to-one.
 
 # Task 1: Populate the Publishers and Authors tables (20 marks)
 ### You may use the graphical interface to populate those two tables, or use the query window to populate them in Visual Studio. Or you can challenge yourself to populate the data using the following two ways:
