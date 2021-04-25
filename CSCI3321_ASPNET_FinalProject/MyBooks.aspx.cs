@@ -19,7 +19,7 @@ namespace CSCI3321_ASPNET_FinalProject
             /// 3. Price
             /// 4. Publish date
             /// 5. Publisher's name
-            /// 6. (optional and bonus) Genres (delimited by a comma)
+            /// 6. Genre
             /// 
             // 1. Create a SqlConnection object
             SqlConnection conn = new SqlConnection();
